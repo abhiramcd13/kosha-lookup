@@ -1,0 +1,1 @@
+Cloud Run safe v2. Use deploy.sh from Cloud Shell.
